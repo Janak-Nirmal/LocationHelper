@@ -2,7 +2,7 @@ LocationHelper
 ==============
 
 ## Overview
-** LocationHelper** is a simple class that will allow you to get user's current location with a single instance across the application.
+**LocationHelper** is a simple class that will allow you to get user's current location with a single instance across the application.
 
 ## How to use
 It can be initialised as easy as:
